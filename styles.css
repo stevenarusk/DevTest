@@ -1,0 +1,71 @@
+.jumbotron{
+	width: 100%;
+	height: 100%;
+	background-position: center;
+  background-repeat: no-repeat;
+	background-image: url("assets/main-banner.png");
+}
+
+.image-heading{
+	width: 402px;
+  height: 56px;
+  margin: 121.5px 0px 0px 109.5px;
+  font-family: Quicksand;
+  font-size: 45px;
+  font-weight: Bold 700;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.image-text{
+	width: 584px;
+  height: 68px;
+  margin: 20px 0px 0px 111.5px;
+  font-family: Quicksand;
+  font-size: 24px;
+  font-weight: Medium 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.42;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.btn-primary{
+	background-color: darkorange;
+	margin: 20px 0px 108px 111.5px;
+	font-family: Quicksand;
+  font-size: 18px;
+  font-weight: Bold 700;
+  font-stretch: normal;
+  font-style: normal;
+}
+
+.main-heading{
+	margin: auto;
+	width: 270px;
+  height: 70px;
+	font-family: Quicksand;
+	font-size: 22.5px;
+  font-weight: Bold 700;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+.main-text{
+	margin: auto;
+	width: 700px;
+  height: 150px;
+	font-family: Quicksand;
+  font-size: 24px;
+  font-weight: Medium 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;	
+}
